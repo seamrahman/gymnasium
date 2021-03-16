@@ -1,0 +1,5 @@
+font-family: 'Oswald', sans-serif;
+
+font-family: 'Open Sans', sans-serif;
+
+color: #e23e38
